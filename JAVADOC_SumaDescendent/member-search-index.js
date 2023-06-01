@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"es.iesmz.ed.algoritmes","c":"SumaDescendent","l":"suma()"},{"p":"es.iesmz.ed.algoritmes","c":"SumaDescendent","l":"SumaDescendent(long)","u":"%3Cinit%3E(long)"}];updateSearchResults();
