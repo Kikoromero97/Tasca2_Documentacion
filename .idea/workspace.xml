@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4d9d68b2-abf2-429b-909c-02c95878113e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algoritmes/Algoritmes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algoritmes/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algoritmes/src/es/iesmz/ed/algoritmes/SumaDescendent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algoritmes/src/es/iesmz/ed/algoritmes/SumaDescendentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasca 2 - Documentacion.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Qc6yPQHm3dKG7z7UTlbMEbIC8x" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "create.test.in.the.same.root": "true",
+    "jdk.selected.JAVA_MODULE": "19"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="es.iesmz.ed.algoritmes" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.SumaDescendentTest">
+    <configuration name="SumaDescendentTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Algoritmes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="es.iesmz.ed.algoritmes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="es.iesmz.ed.algoritmes" />
+      <option name="MAIN_CLASS_NAME" value="es.iesmz.ed.algoritmes.SumaDescendentTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SumaDescendentTest.CuartaSuma" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Algoritmes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="es.iesmz.ed.algoritmes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="es.iesmz.ed.algoritmes" />
+      <option name="MAIN_CLASS_NAME" value="es.iesmz.ed.algoritmes.SumaDescendentTest" />
+      <option name="METHOD_NAME" value="CuartaSuma" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SumaDescendentTest.SegundaSuma" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Algoritmes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="es.iesmz.ed.algoritmes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="es.iesmz.ed.algoritmes" />
+      <option name="MAIN_CLASS_NAME" value="es.iesmz.ed.algoritmes.SumaDescendentTest" />
+      <option name="METHOD_NAME" value="SegundaSuma" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SumaDescendentTest.TerceraSuma" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Algoritmes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="es.iesmz.ed.algoritmes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="es.iesmz.ed.algoritmes" />
+      <option name="MAIN_CLASS_NAME" value="es.iesmz.ed.algoritmes.SumaDescendentTest" />
+      <option name="METHOD_NAME" value="TerceraSuma" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SumaDescendentTest.suma" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Algoritmes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="es.iesmz.ed.algoritmes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="es.iesmz.ed.algoritmes" />
+      <option name="MAIN_CLASS_NAME" value="es.iesmz.ed.algoritmes.SumaDescendentTest" />
+      <option name="METHOD_NAME" value="suma" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SumaDescendentTest" />
+        <item itemvalue="JUnit.SumaDescendentTest.SegundaSuma" />
+        <item itemvalue="JUnit.SumaDescendentTest.CuartaSuma" />
+        <item itemvalue="JUnit.SumaDescendentTest.TerceraSuma" />
+        <item itemvalue="JUnit.SumaDescendentTest.suma" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4d9d68b2-abf2-429b-909c-02c95878113e" name="Changes" comment="" />
+      <created>1685640779325</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1685640779325</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
