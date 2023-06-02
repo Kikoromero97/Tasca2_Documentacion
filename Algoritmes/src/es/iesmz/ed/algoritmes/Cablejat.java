@@ -9,7 +9,7 @@ public class Cablejat {
 
     /**
      * Constructor para pasar un vector de Strings con los cables.
-     * @param conectores El parámetro define un vector con una cantidad de cables definidas.
+     * @param conectores El parámetro define un vector con una cantidad de cables definidos.
      */
     public Cablejat(String[] conectores) {
         this.conectores = conectores;

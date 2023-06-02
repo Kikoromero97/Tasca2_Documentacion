@@ -4,7 +4,9 @@
     <option name="SCOPE_TYPE" value="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d9d68b2-abf2-429b-909c-02c95878113e" name="Changes" comment="Clase Cablejat con los Tests SUBIDO">
+    <list default="true" id="4d9d68b2-abf2-429b-909c-02c95878113e" name="Changes" comment="Clase Cablejat con comentarios SUBIDO">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Algoritmes/src/es/iesmz/ed/algoritmes/Cablejat.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algoritmes/src/es/iesmz/ed/algoritmes/Cablejat.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,8 +57,8 @@
       <recent name="es.iesmz.ed.algoritmes" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.CablejatTest">
-    <configuration name="CablejatTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.PolidivisibleTest">
+    <configuration name="PolidivisibleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Algoritmes" />
       <extension name="coverage">
         <pattern>
@@ -65,13 +67,13 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="es.iesmz.ed.algoritmes" />
-      <option name="MAIN_CLASS_NAME" value="es.iesmz.ed.algoritmes.CablejatTest" />
+      <option name="MAIN_CLASS_NAME" value="es.iesmz.ed.algoritmes.PolidivisibleTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CablejatTest.SoloCincoCables" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PolidivisibleTest.esPolidivisible2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Algoritmes" />
       <extension name="coverage">
         <pattern>
@@ -80,14 +82,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="es.iesmz.ed.algoritmes" />
-      <option name="MAIN_CLASS_NAME" value="es.iesmz.ed.algoritmes.CablejatTest" />
-      <option name="METHOD_NAME" value="SoloCincoCables" />
+      <option name="MAIN_CLASS_NAME" value="es.iesmz.ed.algoritmes.PolidivisibleTest" />
+      <option name="METHOD_NAME" value="esPolidivisible2" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CablejatTest.SoloDosCables" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PolidivisibleTest.esPolidivisible3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Algoritmes" />
       <extension name="coverage">
         <pattern>
@@ -96,14 +98,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="es.iesmz.ed.algoritmes" />
-      <option name="MAIN_CLASS_NAME" value="es.iesmz.ed.algoritmes.CablejatTest" />
-      <option name="METHOD_NAME" value="SoloDosCables" />
+      <option name="MAIN_CLASS_NAME" value="es.iesmz.ed.algoritmes.PolidivisibleTest" />
+      <option name="METHOD_NAME" value="esPolidivisible3" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CablejatTest.SoloHembras" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PolidivisibleTest.esPolidivisible4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Algoritmes" />
       <extension name="coverage">
         <pattern>
@@ -112,14 +114,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="es.iesmz.ed.algoritmes" />
-      <option name="MAIN_CLASS_NAME" value="es.iesmz.ed.algoritmes.CablejatTest" />
-      <option name="METHOD_NAME" value="SoloHembras" />
+      <option name="MAIN_CLASS_NAME" value="es.iesmz.ed.algoritmes.PolidivisibleTest" />
+      <option name="METHOD_NAME" value="esPolidivisible4" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CablejatTest.SoloTresCables" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PolidivisibleTest.esPolidivisible5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Algoritmes" />
       <extension name="coverage">
         <pattern>
@@ -128,8 +130,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="es.iesmz.ed.algoritmes" />
-      <option name="MAIN_CLASS_NAME" value="es.iesmz.ed.algoritmes.CablejatTest" />
-      <option name="METHOD_NAME" value="SoloTresCables" />
+      <option name="MAIN_CLASS_NAME" value="es.iesmz.ed.algoritmes.PolidivisibleTest" />
+      <option name="METHOD_NAME" value="esPolidivisible5" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -137,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.CablejatTest" />
-        <item itemvalue="JUnit.CablejatTest.SoloCincoCables" />
-        <item itemvalue="JUnit.CablejatTest.SoloDosCables" />
-        <item itemvalue="JUnit.CablejatTest.SoloTresCables" />
-        <item itemvalue="JUnit.CablejatTest.SoloHembras" />
+        <item itemvalue="JUnit.PolidivisibleTest" />
+        <item itemvalue="JUnit.PolidivisibleTest.esPolidivisible5" />
+        <item itemvalue="JUnit.PolidivisibleTest.esPolidivisible4" />
+        <item itemvalue="JUnit.PolidivisibleTest.esPolidivisible3" />
+        <item itemvalue="JUnit.PolidivisibleTest.esPolidivisible2" />
       </list>
     </recent_temporary>
   </component>
@@ -182,7 +184,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685695201307</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Clase Cablejat con comentarios SUBIDO">
+      <created>1685716841263</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1685716841263</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -200,6 +209,7 @@
     <MESSAGE value="Clase SumaDescendent y Test subidos." />
     <MESSAGE value="Clase SumaDescendent con comentarios SUBIDA" />
     <MESSAGE value="Clase Cablejat con los Tests SUBIDO" />
-    <option name="LAST_COMMIT_MESSAGE" value="Clase Cablejat con los Tests SUBIDO" />
+    <MESSAGE value="Clase Cablejat con comentarios SUBIDO" />
+    <option name="LAST_COMMIT_MESSAGE" value="Clase Cablejat con comentarios SUBIDO" />
   </component>
 </project>
