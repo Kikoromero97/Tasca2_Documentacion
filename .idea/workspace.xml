@@ -4,10 +4,9 @@
     <option name="SCOPE_TYPE" value="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d9d68b2-abf2-429b-909c-02c95878113e" name="Changes" comment="Clase SumaDescendent y Test subidos.">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="4d9d68b2-abf2-429b-909c-02c95878113e" name="Changes" comment="Clase SumaDescendent con comentarios SUBIDA">
+      <change afterPath="$PROJECT_DIR$/Algoritmes/src/es/iesmz/ed/algoritmes/Cablejat.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algoritmes/src/es/iesmz/ed/algoritmes/SumaDescendent.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algoritmes/src/es/iesmz/ed/algoritmes/SumaDescendent.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,21 +33,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "create.test.in.the.same.root": "true",
-    "jdk.selected.JAVA_MODULE": "19"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;19&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -57,8 +56,8 @@
       <recent name="es.iesmz.ed.algoritmes" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.SumaDescendentTest">
-    <configuration name="SumaDescendentTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.CablejatTest">
+    <configuration name="CablejatTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Algoritmes" />
       <extension name="coverage">
         <pattern>
@@ -67,13 +66,13 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="es.iesmz.ed.algoritmes" />
-      <option name="MAIN_CLASS_NAME" value="es.iesmz.ed.algoritmes.SumaDescendentTest" />
+      <option name="MAIN_CLASS_NAME" value="es.iesmz.ed.algoritmes.CablejatTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumaDescendentTest.CuartaSuma" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CablejatTest.SoloCincoCables" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Algoritmes" />
       <extension name="coverage">
         <pattern>
@@ -82,14 +81,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="es.iesmz.ed.algoritmes" />
-      <option name="MAIN_CLASS_NAME" value="es.iesmz.ed.algoritmes.SumaDescendentTest" />
-      <option name="METHOD_NAME" value="CuartaSuma" />
+      <option name="MAIN_CLASS_NAME" value="es.iesmz.ed.algoritmes.CablejatTest" />
+      <option name="METHOD_NAME" value="SoloCincoCables" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumaDescendentTest.SegundaSuma" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CablejatTest.SoloDosCables" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Algoritmes" />
       <extension name="coverage">
         <pattern>
@@ -98,14 +97,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="es.iesmz.ed.algoritmes" />
-      <option name="MAIN_CLASS_NAME" value="es.iesmz.ed.algoritmes.SumaDescendentTest" />
-      <option name="METHOD_NAME" value="SegundaSuma" />
+      <option name="MAIN_CLASS_NAME" value="es.iesmz.ed.algoritmes.CablejatTest" />
+      <option name="METHOD_NAME" value="SoloDosCables" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumaDescendentTest.TerceraSuma" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CablejatTest.SoloHembras" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Algoritmes" />
       <extension name="coverage">
         <pattern>
@@ -114,14 +113,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="es.iesmz.ed.algoritmes" />
-      <option name="MAIN_CLASS_NAME" value="es.iesmz.ed.algoritmes.SumaDescendentTest" />
-      <option name="METHOD_NAME" value="TerceraSuma" />
+      <option name="MAIN_CLASS_NAME" value="es.iesmz.ed.algoritmes.CablejatTest" />
+      <option name="METHOD_NAME" value="SoloHembras" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumaDescendentTest.suma" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CablejatTest.SoloTresCables" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Algoritmes" />
       <extension name="coverage">
         <pattern>
@@ -130,8 +129,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="es.iesmz.ed.algoritmes" />
-      <option name="MAIN_CLASS_NAME" value="es.iesmz.ed.algoritmes.SumaDescendentTest" />
-      <option name="METHOD_NAME" value="suma" />
+      <option name="MAIN_CLASS_NAME" value="es.iesmz.ed.algoritmes.CablejatTest" />
+      <option name="METHOD_NAME" value="SoloTresCables" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -139,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.SumaDescendentTest" />
-        <item itemvalue="JUnit.SumaDescendentTest.SegundaSuma" />
-        <item itemvalue="JUnit.SumaDescendentTest.CuartaSuma" />
-        <item itemvalue="JUnit.SumaDescendentTest.TerceraSuma" />
-        <item itemvalue="JUnit.SumaDescendentTest.suma" />
+        <item itemvalue="JUnit.CablejatTest" />
+        <item itemvalue="JUnit.CablejatTest.SoloCincoCables" />
+        <item itemvalue="JUnit.CablejatTest.SoloDosCables" />
+        <item itemvalue="JUnit.CablejatTest.SoloTresCables" />
+        <item itemvalue="JUnit.CablejatTest.SoloHembras" />
       </list>
     </recent_temporary>
   </component>
@@ -170,7 +169,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685647219496</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Clase SumaDescendent con comentarios SUBIDA">
+      <created>1685648128567</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1685648128567</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -186,6 +192,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Clase SumaDescendent y Test subidos." />
-    <option name="LAST_COMMIT_MESSAGE" value="Clase SumaDescendent y Test subidos." />
+    <MESSAGE value="Clase SumaDescendent con comentarios SUBIDA" />
+    <option name="LAST_COMMIT_MESSAGE" value="Clase SumaDescendent con comentarios SUBIDA" />
   </component>
 </project>
