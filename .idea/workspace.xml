@@ -4,9 +4,8 @@
     <option name="SCOPE_TYPE" value="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d9d68b2-abf2-429b-909c-02c95878113e" name="Changes" comment="Clase SumaDescendent con comentarios SUBIDA">
-      <change afterPath="$PROJECT_DIR$/Algoritmes/src/es/iesmz/ed/algoritmes/Cablejat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="4d9d68b2-abf2-429b-909c-02c95878113e" name="Changes" comment="Clase Cablejat con los Tests SUBIDO">
+      <change beforePath="$PROJECT_DIR$/Algoritmes/src/es/iesmz/ed/algoritmes/Cablejat.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algoritmes/src/es/iesmz/ed/algoritmes/Cablejat.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -176,7 +175,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685648128567</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Clase Cablejat con los Tests SUBIDO">
+      <created>1685695201307</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1685695201307</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -193,6 +199,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Clase SumaDescendent y Test subidos." />
     <MESSAGE value="Clase SumaDescendent con comentarios SUBIDA" />
-    <option name="LAST_COMMIT_MESSAGE" value="Clase SumaDescendent con comentarios SUBIDA" />
+    <MESSAGE value="Clase Cablejat con los Tests SUBIDO" />
+    <option name="LAST_COMMIT_MESSAGE" value="Clase Cablejat con los Tests SUBIDO" />
   </component>
 </project>
